@@ -1,0 +1,10 @@
+
+// Acens.ttf
+@font-face {
+  font-weight: normal;
+  font-family: Acens;
+  font-style: normal;
+  src: url('./Acens.woff2') format('woff2'),
+       url('./Acens.woff') format('woff'),
+       url('./Acens.ttf') format('truetype');
+}
