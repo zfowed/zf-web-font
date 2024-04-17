@@ -1,6 +1,6 @@
 {
   "name": "@zf-web-font/digital",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": ["zf-web-font", "Font", "Digital"],
   "private": false,
   "publishConfig": {
