@@ -1,0 +1,27 @@
+/* 旁门正道标题 */
+
+@font-face {
+  font-weight: normal;
+  font-family: PangMenZhengDaoBiaoTi Regular;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/zfowed/zf-web-font/packages/PangMenZhengDaoBiaoTi/PangMenZhengDaoBiaoTi-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/zfowed/zf-web-font/packages/PangMenZhengDaoBiaoTi/PangMenZhengDaoBiaoTi-Regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/zfowed/zf-web-font/packages/PangMenZhengDaoBiaoTi/PangMenZhengDaoBiaoTi-Regular.ttf') format('truetype'),
+       
+       url('./PangMenZhengDaoBiaoTi-Regular.woff2') format('woff2'),
+       url('./PangMenZhengDaoBiaoTi-Regular.woff') format('woff'),
+       url('./PangMenZhengDaoBiaoTi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: PangMenZhengDaoBiaoTi;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/zfowed/zf-web-font/packages/PangMenZhengDaoBiaoTi/PangMenZhengDaoBiaoTi-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/zfowed/zf-web-font/packages/PangMenZhengDaoBiaoTi/PangMenZhengDaoBiaoTi-Regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/zfowed/zf-web-font/packages/PangMenZhengDaoBiaoTi/PangMenZhengDaoBiaoTi-Regular.ttf') format('truetype'),
+       
+       url('./PangMenZhengDaoBiaoTi-Regular.woff2') format('woff2'),
+       url('./PangMenZhengDaoBiaoTi-Regular.woff') format('woff'),
+       url('./PangMenZhengDaoBiaoTi-Regular.ttf') format('truetype');
+}

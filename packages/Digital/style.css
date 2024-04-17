@@ -1,0 +1,11 @@
+
+/**
+ * Font name: Digital
+ */
+
+ @font-face {
+  font-family: Digital;
+  src: url('./Digital.woff2') format('woff2'),
+       url('./Digital.woff') format('woff'),
+       url('./Digital.ttf') format('truetype');
+}

@@ -1,0 +1,25 @@
+{
+  "name": "@zf-web-font/opposans",
+  "version": "0.1.0",
+  "keywords": [
+    "zf-web-font",
+    "Font",
+    "OPPOSans",
+    "OPPOSans Bold",
+    "OPPOSans Heavy",
+    "OPPOSans Light",
+    "OPPOSans Medium",
+    "OPPOSans Regular",
+    "OPPOSans B",
+    "OPPOSans H",
+    "OPPOSans L",
+    "OPPOSans M",
+    "OPPOSans R"
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "zfowed <zfowed@qq.com>",
+  "license": "ISC"
+}

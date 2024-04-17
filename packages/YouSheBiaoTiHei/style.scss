@@ -1,0 +1,21 @@
+
+/* 优设标题黑 */
+
+@font-face {
+  font-weight: normal;
+  font-family: YouSheBiaoTiHei Regular;
+  font-style: normal;
+  src: url('./YouSheBiaoTiHei-Regular.woff2') format('woff2'),
+       url('./YouSheBiaoTiHei-Regular.woff') format('woff'),
+       url('./YouSheBiaoTiHei-Regular.ttf') format('truetype');
+}
+
+
+@font-face {
+  font-weight: normal;
+  font-family: YouSheBiaoTiHei;
+  font-style: normal;
+  src: url('./YouSheBiaoTiHei-Regular.woff2') format('woff2'),
+       url('./YouSheBiaoTiHei-Regular.woff') format('woff'),
+       url('./YouSheBiaoTiHei-Regular.ttf') format('truetype');
+}

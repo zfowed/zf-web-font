@@ -1,0 +1,17 @@
+{
+  "name": "@zf-web-font/youshebiaotihei",
+  "version": "0.1.0",
+  "keywords": [
+    "zf-web-font",
+    "Font",
+    "YouSheBiaoTiHei",
+    "YouSheBiaoTiHei Regular",
+    "优设标题黑"
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "zfowed <zfowed@qq.com>",
+  "license": "ISC"
+}

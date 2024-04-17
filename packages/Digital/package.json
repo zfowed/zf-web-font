@@ -1,0 +1,11 @@
+{
+  "name": "@zf-web-font/digital",
+  "version": "0.1.0",
+  "keywords": ["zf-web-font", "Font", "Digital"],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "zfowed <zfowed@qq.com>",
+  "license": "ISC"
+}

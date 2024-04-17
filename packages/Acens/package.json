@@ -1,0 +1,11 @@
+{
+  "name": "@zf-web-font/acens",
+  "version": "0.1.0",
+  "keywords": ["zf-web-font", "Font", "Acens"],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "zfowed <zfowed@qq.com>",
+  "license": "ISC"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@zf-web-font/pangmenzhengdaobiaoti",
+  "version": "0.1.0",
+  "keywords": [
+    "zf-web-font",
+    "Font",
+    "PangMenZhengDaoBiaoTi",
+    "PangMenZhengDaoBiaoTi Regular",
+    "旁门正道标题"
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "zfowed <zfowed@qq.com>",
+  "license": "ISC"
+}

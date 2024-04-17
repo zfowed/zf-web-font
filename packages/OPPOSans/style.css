@@ -1,0 +1,73 @@
+
+@font-face {
+  font-family: OPPOSans Bold;
+  src: url('./OPPOSans-Bold.woff2') format('woff2'),
+       url('./OPPOSans-Bold.woff') format('woff'),
+       url('./OPPOSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: OPPOSans Heavy;
+  src: url('./OPPOSans-Heavy.woff2') format('woff2'),
+       url('./OPPOSans-Heavy.woff') format('woff'),
+       url('./OPPOSans-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: OPPOSans Light;
+  src: url('./OPPOSans-Light.woff2') format('woff2'),
+       url('./OPPOSans-Light.woff') format('woff'),
+       url('./OPPOSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: OPPOSans Medium;
+  src: url('./OPPOSans-Medium.woff2') format('woff2'),
+       url('./OPPOSans-Medium.woff') format('woff'),
+       url('./OPPOSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: OPPOSans Regular;
+  src: url('./OPPOSans-Regular.woff2') format('woff2'),
+       url('./OPPOSans-Regular.woff') format('woff'),
+       url('./OPPOSans-Regular.ttf') format('truetype');
+}
+
+/* --------------------------------------------------------- */
+
+@font-face {
+  font-family: OPPOSans B;
+  src: url('./OPPOSans-Bold.woff2') format('woff2'),
+       url('./OPPOSans-Bold.woff') format('woff'),
+       url('./OPPOSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: OPPOSans H;
+  src: url('./OPPOSans-Heavy.woff2') format('woff2'),
+       url('./OPPOSans-Heavy.woff') format('woff'),
+       url('./OPPOSans-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: OPPOSans L;
+  src: url('./OPPOSans-Light.woff2') format('woff2'),
+       url('./OPPOSans-Light.woff') format('woff'),
+       url('./OPPOSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: OPPOSans M;
+  src: url('./OPPOSans-Medium.woff2') format('woff2'),
+       url('./OPPOSans-Medium.woff') format('woff'),
+       url('./OPPOSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: OPPOSans R;
+  src: url('./OPPOSans-Regular.woff2') format('woff2'),
+       url('./OPPOSans-Regular.woff') format('woff'),
+       url('./OPPOSans-Regular.ttf') format('truetype');
+}
+

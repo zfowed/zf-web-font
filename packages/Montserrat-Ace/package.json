@@ -1,0 +1,25 @@
+{
+  "name": "@zf-web-font/montserrat-ace",
+  "version": "0.1.0",
+  "keywords": [
+    "zf-web-font",
+    "Font",
+    "Montserrat Ace",
+    "Montserrat Ace Bold Italic",
+    "Montserrat Ace Bold",
+    "Montserrat Ace Italic",
+    "Montserrat Ace Light Italic",
+    "Montserrat Ace Light",
+    "Montserrat Ace Medium Italic",
+    "Montserrat Ace Medium",
+    "Montserrat Ace Regular",
+    "Montserrat Ace SemiBold Italic",
+    "Montserrat Ace SemiBold"
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "zfowed <zfowed@qq.com>",
+  "license": "ISC"
+}
