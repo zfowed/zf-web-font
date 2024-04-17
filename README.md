@@ -3,16 +3,136 @@
 
 ## 字体包
 
-|字体系列 | 字体 | npm 包 |
+
+### Acens
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Facens)
+![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Facens)
+
+```shell
+npm install @zf-web-font/acens --save
+```
+
+| 字体 | 描述 | 预览 |
 | -- | -- | -- |
-| `Acens` | `Acens` | `@zf-web-font/acens` |
-| `Digital` | `Digital` | `@zf-web-font/digital` |
-| `DIN` | `DIN Medium` | `@zf-web-font/din` |
-| `Montserrat Ace` | `Montserrat Ace Bold Italic`, `Montserrat Ace Bold`, `Montserrat Ace Italic`, `Montserrat Ace Light Italic`, `Montserrat Ace Light`, `Montserrat Ace Medium Italic`, `Montserrat Ace Medium`, `Montserrat Ace Regular`, `Montserrat Ace SemiBold Italic`, `Montserrat Ace SemiBold` | `@zf-web-font/montserrat-ace` |
-| `OPPOSans` | `OPPOSans Bold`, `OPPOSans Heavy`, `OPPOSans Light`, `OPPOSans Medium`, `OPPOSans Regular`, `OPPOSans B`, `OPPOSans H`, `OPPOSans L`, `OPPOSans M`, `OPPOSans R` | `@zf-web-font/opposans` |
-| `PangMenZhengDaoBiaoTi` | `PangMenZhengDaoBiaoTi`, `PangMenZhengDaoBiaoTi Regular` | `@zf-web-font/pangmenzhengdaobiaoti` |
-| `SourceHanSansCN` | `SourceHanSansCN Bold`, `SourceHanSansCN ExtraLight`, `SourceHanSansCN Heavy`, `SourceHanSansCN Light`, `SourceHanSansCN Medium`, `SourceHanSansCN Normal`, `SourceHanSansCN Regular` | `@zf-web-font/sourcehansanscn` |
-| `YouSheBiaoTiHei` | `YouSheBiaoTiHei`, `YouSheBiaoTiHei Regular` | `@zf-web-font/youshebiaotihei` |
+| `Acens` | |
+
+
+### Digital
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fdigital)
+![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fdigital)
+
+```shell
+npm install @zf-web-font/digital --save
+```
+
+| 字体 | 描述 | 预览 |
+| -- | -- | -- |
+| `Digital` | |
+
+
+### DIN
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fdin)
+![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fdin)
+
+```shell
+npm install @zf-web-font/din --save
+```
+
+| 字体 | 描述 | 预览 |
+| -- | -- | -- |
+| `DIN` | |
+
+
+### Montserrat Ace
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fmontserrat-ace)
+![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fmontserrat-ace)
+
+```shell
+npm install @zf-web-font/montserrat-ace --save
+```
+
+| 字体 | 描述 | 预览 |
+| -- | -- | -- |
+| `Montserrat Ace Bold Italic` | |
+| `Montserrat Ace Bold` | |
+| `Montserrat Ace Italic` | |
+| `Montserrat Ace Light Italic` | |
+| `Montserrat Ace Light` | |
+| `Montserrat Ace Medium Italic` | |
+| `Montserrat Ace Medium` | |
+| `Montserrat Ace Regular` | |
+| `Montserrat Ace SemiBold Italic` | |
+| `Montserrat Ace SemiBold` | |
+
+
+### OPPOSans
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fopposans)
+![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fopposans)
+
+```shell
+npm install @zf-web-font/opposans --save
+```
+
+| 字体 | 描述 | 预览 |
+| -- | -- | -- |
+| `OPPOSans B` / `OPPOSans Bold` | |
+| `OPPOSans H` / `OPPOSans Heavy` | |
+| `OPPOSans L` / `OPPOSans Light` | |
+| `OPPOSans M` / `OPPOSans Medium` | |
+| `OPPOSans R` / `OPPOSans Regular` | |
+
+
+### PangMenZhengDaoBiaoTi *（旁门正道标题）*
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fpangmenzhengdaobiaoti)
+![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fpangmenzhengdaobiaoti)
+
+```shell
+npm install @zf-web-font/pangmenzhengdaobiaoti --save
+```
+
+| 字体 | 描述 | 预览 |
+| -- | -- | -- |
+| `PangMenZhengDaoBiaoTi` / `PangMenZhengDaoBiaoTi Regular` | |
+
+
+### SourceHanSansCN *（思源黑体）*
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fsourcehansanscn)
+![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fsourcehansanscn)
+
+```shell
+npm install @zf-web-font/sourcehansanscn --save
+```
+
+| 字体 | 描述 | 预览 |
+| -- | -- | -- |
+| `SourceHanSansCN Bold` | |
+| `SourceHanSansCN ExtraLight` | |
+| `SourceHanSansCN Heavy` | |
+| `SourceHanSansCN Light` | |
+| `SourceHanSansCN Medium` | |
+| `SourceHanSansCN Normal` | |
+| `SourceHanSansCN Regular` | |
+
+
+### YouSheBiaoTiHei *（优设标题黑）*
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fyoushebiaotihei)
+![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fyoushebiaotihei)
+
+```shell
+npm install @zf-web-font/youshebiaotihei --save
+```
+
+| 字体 | 描述 | 预览 |
+| -- | -- | -- |
+| `YouSheBiaoTiHei` / `YouSheBiaoTiHei Regular` | |
 
 
 ## 使用方法
@@ -24,7 +144,7 @@
 NPM 安装字体：
 
 ```shell
-npm install @zf-web-font/acens
+npm install @zf-web-font/acens --save
 ```
 
 引用样式文件：
