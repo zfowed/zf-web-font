@@ -1,69 +1,140 @@
 
 @font-face {
-  font-family: Montserrat Ace Bold Italic;
+  font-family: "Montserrat Ace Bold Italic";
   src: url('./Montserrat-Ace-Bold-Italic.woff2') format('woff2'),
        url('./Montserrat-Ace-Bold-Italic.woff') format('woff'),
        url('./Montserrat-Ace-Bold-Italic.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: Montserrat Ace Bold;
+  font-family: "Montserrat Ace Bold";
   src: url('./Montserrat-Ace-Bold.woff2') format('woff2'),
        url('./Montserrat-Ace-Bold.woff') format('woff'),
        url('./Montserrat-Ace-Bold.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: Montserrat Ace Italic;
+  font-family: "Montserrat Ace Italic";
   src: url('./Montserrat-Ace-Italic.woff2') format('woff2'),
        url('./Montserrat-Ace-Italic.woff') format('woff'),
        url('./Montserrat-Ace-Italic.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: Montserrat Ace Light Italic;
+  font-family: "Montserrat Ace Light Italic";
   src: url('./Montserrat-Ace-Light-Italic.woff2') format('woff2'),
        url('./Montserrat-Ace-Light-Italic.woff') format('woff'),
        url('./Montserrat-Ace-Light-Italic.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: Montserrat Ace Light;
+  font-family: "Montserrat Ace Light";
   src: url('./Montserrat-Ace-Light.woff2') format('woff2'),
        url('./Montserrat-Ace-Light.woff') format('woff'),
        url('./Montserrat-Ace-Light.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: Montserrat Ace Medium Italic;
+  font-family: "Montserrat Ace Medium Italic";
   src: url('./Montserrat-Ace-Medium-Italic.woff2') format('woff2'),
        url('./Montserrat-Ace-Medium-Italic.woff') format('woff'),
        url('./Montserrat-Ace-Medium-Italic.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: Montserrat Ace Medium;
+  font-family: "Montserrat Ace Medium";
   src: url('./Montserrat-Ace-Medium.woff2') format('woff2'),
        url('./Montserrat-Ace-Medium.woff') format('woff'),
        url('./Montserrat-Ace-Medium.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: Montserrat Ace Regular;
+  font-family: "Montserrat Ace Regular";
   src: url('./Montserrat-Ace-Regular.woff2') format('woff2'),
        url('./Montserrat-Ace-Regular.woff') format('woff'),
        url('./Montserrat-Ace-Regular.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: Montserrat Ace SemiBold Italic;
+  font-family: "Montserrat Ace SemiBold Italic";
   src: url('./Montserrat-Ace-SemiBold-Italic.woff2') format('woff2'),
        url('./Montserrat-Ace-SemiBold-Italic.woff') format('woff'),
        url('./Montserrat-Ace-SemiBold-Italic.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: Montserrat Ace SemiBold;
+  font-family: "Montserrat Ace SemiBold";
+  src: url('./Montserrat-Ace-SemiBold.woff2') format('woff2'),
+       url('./Montserrat-Ace-SemiBold.woff') format('woff'),
+       url('./Montserrat-Ace-SemiBold.ttf') format('truetype');
+}
+
+
+@font-face {
+  font-family: Montserrat-Ace-Bold-Italic;
+  src: url('./Montserrat-Ace-Bold-Italic.woff2') format('woff2'),
+       url('./Montserrat-Ace-Bold-Italic.woff') format('woff'),
+       url('./Montserrat-Ace-Bold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat-Ace-Bold;
+  src: url('./Montserrat-Ace-Bold.woff2') format('woff2'),
+       url('./Montserrat-Ace-Bold.woff') format('woff'),
+       url('./Montserrat-Ace-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat-Ace-Italic;
+  src: url('./Montserrat-Ace-Italic.woff2') format('woff2'),
+       url('./Montserrat-Ace-Italic.woff') format('woff'),
+       url('./Montserrat-Ace-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat-Ace-Light-Italic;
+  src: url('./Montserrat-Ace-Light-Italic.woff2') format('woff2'),
+       url('./Montserrat-Ace-Light-Italic.woff') format('woff'),
+       url('./Montserrat-Ace-Light-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat-Ace-Light;
+  src: url('./Montserrat-Ace-Light.woff2') format('woff2'),
+       url('./Montserrat-Ace-Light.woff') format('woff'),
+       url('./Montserrat-Ace-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat-Ace-Medium-Italic;
+  src: url('./Montserrat-Ace-Medium-Italic.woff2') format('woff2'),
+       url('./Montserrat-Ace-Medium-Italic.woff') format('woff'),
+       url('./Montserrat-Ace-Medium-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat-Ace-Medium;
+  src: url('./Montserrat-Ace-Medium.woff2') format('woff2'),
+       url('./Montserrat-Ace-Medium.woff') format('woff'),
+       url('./Montserrat-Ace-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat-Ace-Regular;
+  src: url('./Montserrat-Ace-Regular.woff2') format('woff2'),
+       url('./Montserrat-Ace-Regular.woff') format('woff'),
+       url('./Montserrat-Ace-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat-Ace-SemiBold-Italic;
+  src: url('./Montserrat-Ace-SemiBold-Italic.woff2') format('woff2'),
+       url('./Montserrat-Ace-SemiBold-Italic.woff') format('woff'),
+       url('./Montserrat-Ace-SemiBold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat-Ace-SemiBold;
   src: url('./Montserrat-Ace-SemiBold.woff2') format('woff2'),
        url('./Montserrat-Ace-SemiBold.woff') format('woff'),
        url('./Montserrat-Ace-SemiBold.ttf') format('truetype');

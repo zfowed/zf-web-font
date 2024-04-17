@@ -1,8 +1,7 @@
 
-/* 思源黑体 Bold */
 @font-face {
   font-weight: normal;
-  font-family: SourceHanSansCN Bold;
+  font-family: "SourceHanSansCN Bold";
   font-style: normal;
   src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Bold.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Bold.woff') format('woff'),
@@ -13,10 +12,9 @@
        url('./SourceHanSansCN-Bold.ttf') format('truetype');
 }
 
-/* 思源黑体 ExtraLight */
 @font-face {
   font-weight: normal;
-  font-family: SourceHanSansCN ExtraLight;
+  font-family: "SourceHanSansCN ExtraLight";
   font-style: normal;
   src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-ExtraLight.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-ExtraLight.woff') format('woff'),
@@ -27,10 +25,9 @@
        url('./SourceHanSansCN-ExtraLight.ttf') format('truetype');
 }
 
-/* 思源黑体 Heavy */
 @font-face {
   font-weight: normal;
-  font-family: SourceHanSansCN Heavy;
+  font-family: "SourceHanSansCN Heavy";
   font-style: normal;
   src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Heavy.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Heavy.woff') format('woff'),
@@ -41,10 +38,9 @@
        url('./SourceHanSansCN-Heavy.ttf') format('truetype');
 }
 
-/* 思源黑体 Light */
 @font-face {
   font-weight: normal;
-  font-family: SourceHanSansCN Light;
+  font-family: "SourceHanSansCN Light";
   font-style: normal;
   src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Light.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Light.woff') format('woff'),
@@ -55,10 +51,9 @@
        url('./SourceHanSansCN-Light.ttf') format('truetype');
 }
 
-/* 思源黑体 Medium */
 @font-face {
   font-weight: normal;
-  font-family: SourceHanSansCN Medium;
+  font-family: "SourceHanSansCN Medium";
   font-style: normal;
   src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Medium.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Medium.woff') format('woff'),
@@ -69,10 +64,9 @@
        url('./SourceHanSansCN-Medium.ttf') format('truetype');
 }
 
-/* 思源黑体 Normal */
 @font-face {
   font-weight: normal;
-  font-family: SourceHanSansCN Normal;
+  font-family: "SourceHanSansCN Normal";
   font-style: normal;
   src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Normal.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Normal.woff') format('woff'),
@@ -83,10 +77,101 @@
        url('./SourceHanSansCN-Normal.ttf') format('truetype');
 }
 
-/* 思源黑体 Regular */
 @font-face {
   font-weight: normal;
-  font-family: SourceHanSansCN Regular;
+  font-family: "SourceHanSansCN Regular";
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Regular.ttf') format('truetype'),
+       
+       url('./SourceHanSansCN-Regular.woff2') format('woff2'),
+       url('./SourceHanSansCN-Regular.woff') format('woff'),
+       url('./SourceHanSansCN-Regular.ttf') format('truetype');
+}
+
+
+@font-face {
+  font-weight: normal;
+  font-family: SourceHanSansCN-Bold;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Bold.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Bold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Bold.ttf') format('truetype'),
+       
+       url('./SourceHanSansCN-Bold.woff2') format('woff2'),
+       url('./SourceHanSansCN-Bold.woff') format('woff'),
+       url('./SourceHanSansCN-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: SourceHanSansCN-ExtraLight;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-ExtraLight.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-ExtraLight.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-ExtraLight.ttf') format('truetype'),
+       
+       url('./SourceHanSansCN-ExtraLight.woff2') format('woff2'),
+       url('./SourceHanSansCN-ExtraLight.woff') format('woff'),
+       url('./SourceHanSansCN-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: SourceHanSansCN-Heavy;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Heavy.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Heavy.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Heavy.ttf') format('truetype'),
+       
+       url('./SourceHanSansCN-Heavy.woff2') format('woff2'),
+       url('./SourceHanSansCN-Heavy.woff') format('woff'),
+       url('./SourceHanSansCN-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: SourceHanSansCN-Light;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Light.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Light.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Light.ttf') format('truetype'),
+       
+       url('./SourceHanSansCN-Light.woff2') format('woff2'),
+       url('./SourceHanSansCN-Light.woff') format('woff'),
+       url('./SourceHanSansCN-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: SourceHanSansCN-Medium;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Medium.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Medium.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Medium.ttf') format('truetype'),
+       
+       url('./SourceHanSansCN-Medium.woff2') format('woff2'),
+       url('./SourceHanSansCN-Medium.woff') format('woff'),
+       url('./SourceHanSansCN-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: SourceHanSansCN-Normal;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Normal.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Normal.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Normal.ttf') format('truetype'),
+       
+       url('./SourceHanSansCN-Normal.woff2') format('woff2'),
+       url('./SourceHanSansCN-Normal.woff') format('woff'),
+       url('./SourceHanSansCN-Normal.ttf') format('truetype');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: SourceHanSansCN-Regular;
   font-style: normal;
   src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Regular.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/npm/@zf-web-font/sourcehansanscn/SourceHanSansCN-Regular.woff') format('woff'),

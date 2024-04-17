@@ -2,7 +2,20 @@
 
 @font-face {
   font-weight: normal;
-  font-family: PangMenZhengDaoBiaoTi Regular;
+  font-family: "PangMenZhengDaoBiaoTi Regular";
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/pangmenzhengdaobiaoti/PangMenZhengDaoBiaoTi-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/pangmenzhengdaobiaoti/PangMenZhengDaoBiaoTi-Regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/pangmenzhengdaobiaoti/PangMenZhengDaoBiaoTi-Regular.ttf') format('truetype'),
+       
+       url('./PangMenZhengDaoBiaoTi-Regular.woff2') format('woff2'),
+       url('./PangMenZhengDaoBiaoTi-Regular.woff') format('woff'),
+       url('./PangMenZhengDaoBiaoTi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: PangMenZhengDaoBiaoTi-Regular;
   font-style: normal;
   src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/pangmenzhengdaobiaoti/PangMenZhengDaoBiaoTi-Regular.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/npm/@zf-web-font/pangmenzhengdaobiaoti/PangMenZhengDaoBiaoTi-Regular.woff') format('woff'),

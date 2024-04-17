@@ -1,14 +1,22 @@
 
-/**
- * Font name: DIN Medium
- */
 
- @font-face {
-  font-family: DIN Medium;
+@font-face {
+  font-family: "DIN Medium";
   src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/din/DIN-Medium.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/npm/@zf-web-font/din/DIN-Medium.woff') format('woff'),
        url('https://cdn.jsdelivr.net/npm/@zf-web-font/din/DIN-Medium.ttf') format('truetype'),
-ß
+
+       url('./DIN-Medium.woff2') format('woff2'),
+       url('./DIN-Medium.woff') format('woff'),
+       url('./DIN-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: DIN-Medium;
+  src: url('https://cdn.jsdelivr.net/npm/@zf-web-font/din/DIN-Medium.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/din/DIN-Medium.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/@zf-web-font/din/DIN-Medium.ttf') format('truetype'),
+
        url('./DIN-Medium.woff2') format('woff2'),
        url('./DIN-Medium.woff') format('woff'),
        url('./DIN-Medium.ttf') format('truetype');
