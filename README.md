@@ -19,6 +19,7 @@
 
 ### `Acens`
 
+![copyright](https://img.shields.io/badge/商用需授权-E6A23C)
 ![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Facens)
 ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Facens)
 
@@ -33,6 +34,7 @@ npm install @zf-web-font/acens --save
 
 ### `Digital`
 
+![copyright](https://img.shields.io/badge/商用需授权-E6A23C)
 ![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fdigital)
 ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fdigital)
 
@@ -47,6 +49,7 @@ npm install @zf-web-font/digital --save
 
 ### `DIN`
 
+![copyright](https://img.shields.io/badge/免费可商用-67C23A)
 ![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fdin)
 ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fdin)
 
@@ -61,8 +64,10 @@ npm install @zf-web-font/din --save
 
 ### `Montserrat Ace`
 
+![copyright](https://img.shields.io/badge/免费可商用-67C23A)
 ![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fmontserrat-ace)
 ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fmontserrat-ace)
+
 
 ```shell
 npm install @zf-web-font/montserrat-ace --save
@@ -84,8 +89,10 @@ npm install @zf-web-font/montserrat-ace --save
 
 ### `OPPOSans`
 
+![copyright](https://img.shields.io/badge/免费可商用-67C23A)
 ![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fopposans)
 ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fopposans)
+
 
 ```shell
 npm install @zf-web-font/opposans --save
@@ -102,6 +109,7 @@ npm install @zf-web-font/opposans --save
 
 ### `PangMenZhengDaoBiaoTi` *（旁门正道标题）*
 
+![copyright](https://img.shields.io/badge/商用需授权-E6A23C)
 ![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fpangmenzhengdaobiaoti)
 ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fpangmenzhengdaobiaoti)
 
@@ -116,6 +124,7 @@ npm install @zf-web-font/pangmenzhengdaobiaoti --save
 
 ### `SourceHanSansCN` *（思源黑体）*
 
+![copyright](https://img.shields.io/badge/免费可商用-67C23A)
 ![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fsourcehansanscn)
 ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fsourcehansanscn)
 
@@ -136,8 +145,10 @@ npm install @zf-web-font/sourcehansanscn --save
 
 ### `YouSheBiaoTiHei` *（优设标题黑）*
 
+![copyright](https://img.shields.io/badge/免费可商用-67C23A)
 ![NPM Downloads](https://img.shields.io/npm/dw/%40zf-web-font%2Fyoushebiaotihei)
 ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/%40zf-web-font%2Fyoushebiaotihei)
+
 
 ```shell
 npm install @zf-web-font/youshebiaotihei --save
